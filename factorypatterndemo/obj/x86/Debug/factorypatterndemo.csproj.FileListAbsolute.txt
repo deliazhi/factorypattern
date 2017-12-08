@@ -1,0 +1,5 @@
+/Users/delia/Projects/factorypatterndemo/factorypatterndemo/bin/Debug/factorypatterndemo.exe
+/Users/delia/Projects/factorypatterndemo/factorypatterndemo/bin/Debug/factorypatterndemo.pdb
+/Users/delia/Projects/factorypatterndemo/factorypatterndemo/obj/x86/Debug/factorypatterndemo.csproj.CoreCompileInputs.cache
+/Users/delia/Projects/factorypatterndemo/factorypatterndemo/obj/x86/Debug/factorypatterndemo.exe
+/Users/delia/Projects/factorypatterndemo/factorypatterndemo/obj/x86/Debug/factorypatterndemo.pdb

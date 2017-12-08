@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{0DD16366-12EC-4828-AD96-FFF75F9701D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="factorypatterndemo/TravelProductFactory/TC_Factory.cs">
+    <Files>
+      <File FileName="factorypatterndemo/Program.cs" Line="22" Column="1" />
+      <File FileName="factorypatterndemo/TravelProduct/ITravelProduct.cs" Line="2" Column="43" />
+      <File FileName="factorypatterndemo/TravelProduct/DomesticTravel.cs" Line="9" Column="34" />
+      <File FileName="factorypatterndemo/TravelProduct/OutboundTravel.cs" Line="4" Column="1" />
+      <File FileName="factorypatterndemo/TravelProduct/CruiseTravel.cs" Line="4" Column="1" />
+      <File FileName="factorypatterndemo/TravelProductFactory/SimpleTravelProductFactory.cs" Line="59" Column="45" />
+      <File FileName="factorypatterndemo/TravelProductFactory/ITravelProductFactory.cs" Line="5" Column="1" />
+      <File FileName="factorypatterndemo/TravelProductFactory/DomesticTravelFactory.cs" Line="5" Column="1" />
+      <File FileName="factorypatterndemo/TravelProductFactory/OutboundTravelFactory.cs" Line="5" Column="1" />
+      <File FileName="factorypatterndemo/TravelProductFactory/CruiseTravelFactory.cs" Line="5" Column="1" />
+      <File FileName="factorypatterndemo/TravelProduct/IDomesticTravel.cs" Line="4" Column="52" />
+      <File FileName="factorypatterndemo/TravelProduct/IOutboundTravel.cs" Line="4" Column="52" />
+      <File FileName="factorypatterndemo/TravelProduct/ICruiseTravel.cs" Line="4" Column="50" />
+      <File FileName="factorypatterndemo/TravelProductFactory/ITravelFactory.cs" Line="8" Column="35" />
+      <File FileName="factorypatterndemo/TravelProductFactory/XC_Factory.cs" Line="12" Column="53" />
+      <File FileName="factorypatterndemo/TravelProduct/XC_DomesticTravel.cs" Line="6" Column="57" />
+      <File FileName="factorypatterndemo/TravelProduct/TC_DomesticTravel.cs" Line="6" Column="57" />
+      <File FileName="factorypatterndemo/TravelProduct/XC_OutboundTravel.cs" Line="6" Column="57" />
+      <File FileName="factorypatterndemo/TravelProduct/TC_OutboundTravel.cs" Line="6" Column="57" />
+      <File FileName="factorypatterndemo/TravelProduct/XC_CruiseTravel.cs" Line="6" Column="57" />
+      <File FileName="factorypatterndemo/TravelProduct/TC_CruiseTravel.cs" Line="6" Column="57" />
+      <File FileName="factorypatterndemo/TravelProductFactory/TC_Factory.cs" Line="6" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.factorypatterndemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
